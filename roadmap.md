@@ -1,0 +1,4 @@
+- [x] Build invitation, reactions, day/time, date-idea, food-vibe, and date-pass screens.
+- [x] Running "No" button with monkey animation on the first page.
+- [x] Backend saves every answer; private /responses page with live updates.
+- [x] Replaced the $2 fee page with a free stamped date pass.
